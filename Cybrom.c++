@@ -805,22 +805,40 @@ int main()
     //     cout<<"Not a armstrong no.";
     // }
     
-    int i;
-    int n;
-    cout<<"Enter a number:";
-    cin>>n;
-    for(i=1;i<=n;i=i+1)
-    {
-        if(n%4==0 && n%8==0)
-        {
-            cout<<"Valid number";
-        }
-        else
-        {
-            cout<<"Invalid number:";
-        }
-        cout<<endl;
-        }
+    // int smaller=4;
+    // int larger=8;
+    // int answer;
+    // for(int i=1;i<=smaller;i=i+1)
+    // {
+    //     if(smaller%i==0 && larger%i==0)
+    //     {
+    //         answer=i;
+    //     }
+    // }
+    // cout<<answer;
+
+    // int smaller=4;
+    // int larger=8;
+    // int answer;
+    // int lcm;
+    // for(int i=1;i<=smaller;i=i+1)
+    // {
+    //     if(smaller%i==0 && larger%i==0)
+    //     {
+    //         lcm=(larger*smaller)/smaller;
+    //     }
+    // }
+    // cout<<lcm;
+
+    
+
+
+
+
+
+
+
+
 
 
 
