@@ -830,7 +830,25 @@ int main()
     // }
     // cout<<lcm;
 
+    // int smaller=7;
+    // int larger=9;
+    // int answer=0;
+    // for(int i=larger;;i=i+larger)
+    // {
+    //     if(i%smaller==0 && i%larger==0){
+    //     answer=i;
+    //     break;   
+    //     }
+    // }
+    // cout<<answer;
+
     
+
+    
+
+
+
+
 
 
 
